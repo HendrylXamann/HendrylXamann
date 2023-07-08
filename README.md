@@ -1,4 +1,4 @@
-![giphy](https://github.com/HendrylXamann/Hendryl/assets/75086675/ae480948-58bc-490c-8f12-af9f61960430)
+![giphy](https://github.com/HendrylXamann/Logica/assets/75086675/e9cfae66-c434-4d0e-9474-5cdbf4fa849b)
 ## Olá, me chamo Hendryl Roberto
 👩🏻‍💻 Sobre mim <br>
 ➜ Sou estudante de Análise e Desenvolvimento de Sistemas (3/4) e Computação (2/8).<br>

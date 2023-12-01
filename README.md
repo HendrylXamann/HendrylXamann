@@ -2,8 +2,8 @@
 ## Olá, me chamo Hendryl Roberto
 👩🏻‍💻 Sobre mim <br>
 ➜ Sou estudante de Análise e Desenvolvimento de Sistemas (3/4) e Computação (2/8).<br>
-➜ Meu foco atual é ingressar no área de programação e me tornar um exímio desenvolvedor Back-End.<br>
-➜ Atualmente estou estudando Python.<br>
+➜ Meu foco atual é me desenvolver na área de programação e me tornar um exímio desenvolvedor Back-End.<br>
+➜ Atualmente estou estudando Python, SQL e voltando a estudar Java.<br>
 ➜ No meu tempo livre gosto de ler e andar de moto (não ao mesmo tempo).<br>
  ##
 

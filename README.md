@@ -3,7 +3,7 @@
 👩🏻‍💻 Sobre mim <br>
 ➜ Sou estudante de Análise e Desenvolvimento de Sistemas (4/4) e Computação (3/8).<br>
 ➜ Meu foco atual é me desenvolver na área de programação e me tornar um exímio desenvolvedor Back-End.<br>
-➜ Atualmente estou estudando Python, Java e arquitetura de projeto.<br>
+➜ Atualmente estou estudando Java, Spring Boot e Docker.<br>
 ➜ No meu tempo livre gosto de ler e andar de moto (não ao mesmo tempo).<br>
  ##
 

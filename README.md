@@ -1,7 +1,8 @@
 ![giphy](https://github.com/HendrylXamann/Logica/assets/75086675/e9cfae66-c434-4d0e-9474-5cdbf4fa849b)
 ## Olá, me chamo Hendryl Roberto
 👩🏻‍💻 Sobre mim <br>
-➜ Sou estudante de Análise e Desenvolvimento de Sistemas (4/4) e Computação (3/8).<br>
+➜ Sou Desenvolvedor BackEnd.<br>
+➜ Estudante de Análise e Desenvolvimento de Sistemas (4/4) e Computação (3/8).<br>
 ➜ Meu foco atual é me desenvolver na área de programação e me tornar um exímio desenvolvedor Back-End.<br>
 ➜ Atualmente estou estudando Java, Spring Boot e Docker.<br>
 ➜ No meu tempo livre gosto de ler e andar de moto (não ao mesmo tempo).<br>

@@ -2,7 +2,7 @@
 ## Olá, me chamo Hendryl Roberto
 👩🏻‍💻 Sobre mim <br>
 ➜ Sou Desenvolvedor BackEnd.<br>
-➜ Estudante de Análise e Desenvolvimento de Sistemas (4/4) e Computação (3/8).<br>
+➜ Formado em Análise e Desenvolvimento de Sistemas e cursando Computação (4/8).<br>
 ➜ Meu foco atual é me desenvolver na área de programação e me tornar um exímio desenvolvedor Back-End.<br>
 ➜ Atualmente estou estudando Java, Spring Boot e Docker.<br>
 ➜ No meu tempo livre gosto de ler e andar de moto (não ao mesmo tempo).<br>

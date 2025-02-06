@@ -4,7 +4,7 @@
 ➜ Sou Desenvolvedor Java Back-End.<br>
 ➜ Formado em Análise e Desenvolvimento de Sistemas e cursando Engenharia de Software.<br>
 ➜ Meu foco atual é me desenvolver na área de programação e me tornar um exímio desenvolvedor Back-End.<br>
-➜ Atualmente estou estudando Java, Spring Boot e AWS.<br>
+➜ Atualmente estou estudando Java, Spring Boot e Sistemas de Mensageria.<br>
 ➜ No meu tempo livre gosto de ler e andar de moto (não ao mesmo tempo).<br>
  ##
 
@@ -12,8 +12,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="hendryl-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  <img align="center" alt="hendryl-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="hendryl-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="hendryl-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+<!--   <img align="center" alt="hendryl-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
+<!--   <img align="center" alt="hendryl-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"> -->
   <img align="center" alt="hendryl-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 <!--   <img align="center" alt="hendryl-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="hendryl-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
@@ -21,6 +21,7 @@
   <img align="center" alt="hendryl-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="hendryl-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
  <img align="center" alt="hendryl-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+ 
 </div>
   
   ##
